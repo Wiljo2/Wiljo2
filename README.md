@@ -43,7 +43,7 @@
 ### 🤝 Let's Connect!
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 📧 Reach me at: **youremail@example.com**
+- 📧 Reach me at: **wiamjose@gmail.com**
 
 ---
 
