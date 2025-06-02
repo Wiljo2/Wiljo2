@@ -2,8 +2,8 @@
 <h3 align="center">A Passionate Full-Stack Developer | AWS Enthusiast | React & Node.js Expert</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/wiljo2">
+    <img src="https://komarev.com/ghpvc/?username=wiljo2&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
